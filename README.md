@@ -20,8 +20,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [https://github.com/Eko-U/product-card.git](https://github.com/Eko-U/product-card.git)
-- Live Site URL: [https://eko-u.github.io/product-card/](https://eko-u.github.io/product-card/)
+- Solution URL: [https://github.com/Eko-U/product-card.git](https://github.com/Eko-U/qr-code)
+- Live Site URL: [https://eko-u.github.io/product-card/](https://eko-u.github.io/qr-code/)
 
 ### Built with
 
